@@ -1,0 +1,12 @@
+{
+  "specifier": "/app.tsx",
+  "deps": [
+    {
+      "specifier": "https://deno.land/x/aleph@v0.3.0-beta.19/framework/react/components/Head.ts"
+    },
+    {
+      "specifier": "https://esm.sh/react@17.0.2"
+    }
+  ],
+  "sourceHash": "22475f0833b2eb443cb73aa5b14ec7cb9ed546ac"
+}

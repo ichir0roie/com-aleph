@@ -1,0 +1,9 @@
+{
+  "specifier": "https://deno.land/x/aleph@v0.3.0-beta.19/framework/core/style.ts",
+  "deps": [
+    {
+      "specifier": "https://deno.land/x/aleph@v0.3.0-beta.19/shared/util.ts"
+    }
+  ],
+  "sourceHash": "d75119f44186665c619ad9298935c5ade91910e0"
+}
