@@ -1,6 +1,6 @@
 import React from "../-/esm.sh/react@17.0.2.js";
 // import MdBox from '~/components/mdBox.tsx'
-import MdLoad from "../components/mdLoad.js#/components/mdLoad.tsx@331f7e";
+import MdLoad from "../components/mdLoad.js#/components/mdLoad.tsx@5acae6";
 export default function Home() {
     return React.createElement("div", {
         className: "page",

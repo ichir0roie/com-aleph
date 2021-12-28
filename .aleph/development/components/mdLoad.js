@@ -1,12 +1,10 @@
-/*#__PURE__*/ import React from "../-/esm.sh/react@17.0.2.js";
+import mdParse from "../lib/mdParse.js#/lib/mdParse.ts@45787f";
 export default function MdLoad({ text  }) {
-    fetch("/api/loadMd");
-    return React.createElement("div", {
-        __source: {
-            fileName: "/components/mdLoad.tsx",
-            lineNumber: 9
-        }
-    }, "\"test\"");
+    console.log(text);
+    fetch("/api/mdLoad").then((res)=>console
+    );
+    //todo ここで同期的処理でreturnする必要がある。
+    return mdParse("**yet get markdown text**");
 };
 _c = MdLoad;
 var _c;
