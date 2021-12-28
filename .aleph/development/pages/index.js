@@ -1,38 +1,28 @@
-var _s = $RefreshSig$();
-/*#__PURE__*/ import { useDeno } from "../-/deno.land/x/aleph@v0.3.0-beta.19/framework/react/mod.js";
 import React from "../-/esm.sh/react@17.0.2.js";
 import MdBox from "../components/mdBox.js#/components/mdBox.tsx@c05d5a";
-import useCounter from "../lib/useCounter.js#/lib/useCounter.ts@2e24d6";
-import ReactMarkdown from "../-/esm.sh/react-markdown.js";
+import { marked } from "../-/cdn.esm.sh/marked.js";
+import htmlToReact from "../-/cdn.esm.sh/html-to-react.js";
 export default function Home() {
-    _s();
-    const [count, isSyncing, increase, decrease] = useCounter();
-    const version = useDeno(()=>Deno.version.deno
-    , null, "useDeno-6G3UgSqfHlVo85M60IRbxdFdQao");
+    const mdParser = new htmlToReact.Parser();
     return React.createElement("div", {
         className: "page",
         __source: {
             fileName: "/pages/index.tsx",
-            lineNumber: 14
+            lineNumber: 11
         }
     }, React.createElement(MdBox, {
         __source: {
             fileName: "/pages/index.tsx",
-            lineNumber: 15
+            lineNumber: 12
         }
-    }), React.createElement(ReactMarkdown, {
+    }), React.createElement("div", {
+        id: "markdownText",
         __source: {
             fileName: "/pages/index.tsx",
-            lineNumber: 16
+            lineNumber: 13
         }
-    }, "*React-Markdown* is **Awesome**"));
+    }, mdParser.parse(marked("# this is test"))));
 };
-_s(Home, "V0mUAOVpPZ1GE5jYTt9OXbvElBA=", false, function() {
-    return [
-        useCounter,
-        useDeno
-    ];
-});
 _c = Home;
 var _c;
 $RefreshReg$(_c, "Home");

@@ -1,0 +1,12 @@
+{
+  "specifier": "https://cdn.esm.sh/v59/dom-serializer@1.3.2/deno/dom-serializer.js",
+  "deps": [
+    {
+      "specifier": "https://cdn.esm.sh/v59/entities@2.2.0/deno/entities.js"
+    },
+    {
+      "specifier": "https://cdn.esm.sh/v59/domelementtype@2.2.0/deno/domelementtype.js"
+    }
+  ],
+  "sourceHash": "2bd021f6b60b6c7160904d62d948c4dd893d32ab"
+}

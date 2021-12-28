@@ -2,28 +2,21 @@
   "specifier": "/pages/index.tsx",
   "deps": [
     {
-      "specifier": "https://deno.land/x/aleph@v0.3.0-beta.19/framework/react/mod.ts"
-    },
-    {
       "specifier": "https://esm.sh/react@17.0.2"
     },
     {
       "specifier": "/components/mdBox.tsx",
-      "hashLoc": 240
+      "hashLoc": 113
     },
     {
-      "specifier": "/lib/useCounter.ts",
-      "hashLoc": 313
+      "specifier": "https://cdn.esm.sh/marked"
     },
     {
-      "specifier": "https://esm.sh/react-markdown"
+      "specifier": "https://cdn.esm.sh/html-to-react"
     }
   ],
-  "sourceHash": "419512cdd25a496a1c53949037cba2653dae9578",
+  "sourceHash": "310cb2c6126e831df904220638d159a0589d2105",
   "jsxStaticClassNames": [
     "page"
-  ],
-  "denoHooks": [
-    "6G3UgSqfHlVo85M60IRbxdFdQao"
   ]
 }

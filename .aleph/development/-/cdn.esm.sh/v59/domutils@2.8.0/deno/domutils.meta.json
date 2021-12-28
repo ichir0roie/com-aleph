@@ -1,0 +1,15 @@
+{
+  "specifier": "https://cdn.esm.sh/v59/domutils@2.8.0/deno/domutils.js",
+  "deps": [
+    {
+      "specifier": "https://cdn.esm.sh/v59/domelementtype@2.2.0/deno/domelementtype.js"
+    },
+    {
+      "specifier": "https://cdn.esm.sh/v59/dom-serializer@1.3.2/deno/dom-serializer.js"
+    },
+    {
+      "specifier": "https://cdn.esm.sh/v59/domhandler@4.3.0/deno/domhandler.js"
+    }
+  ],
+  "sourceHash": "592e11544421444a390dfd91700d36fc99772fcf"
+}
