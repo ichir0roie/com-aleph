@@ -1,0 +1,12 @@
+{
+  "specifier": "/lib/mdParse.ts",
+  "deps": [
+    {
+      "specifier": "https://cdn.esm.sh/marked"
+    },
+    {
+      "specifier": "https://cdn.esm.sh/html-to-react"
+    }
+  ],
+  "sourceHash": "6f0055a9e09a11ef35dbb846da52410e64744a21"
+}

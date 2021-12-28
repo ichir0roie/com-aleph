@@ -1,0 +1,15 @@
+{
+  "specifier": "https://deno.land/x/aleph@v0.3.0-beta.19/framework/react/context.ts",
+  "deps": [
+    {
+      "specifier": "https://esm.sh/react@17.0.2"
+    },
+    {
+      "specifier": "https://deno.land/x/aleph@v0.3.0-beta.19/framework/core/routing.ts"
+    },
+    {
+      "specifier": "https://deno.land/x/aleph@v0.3.0-beta.19/framework/react/helper.ts"
+    }
+  ],
+  "sourceHash": "beed277eed5c9a4150c6db0f8cdbf65746c47c0a"
+}

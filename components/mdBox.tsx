@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 import mdParse from "~/lib/mdParse.ts";
 
-export default function Logo({ size = 75 }: { size?: number }) {
+export default function Logo() {
   const [mdText, setMT] = useState("# init value");
 
   return (

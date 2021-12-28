@@ -1,7 +1,7 @@
 var _s = $RefreshSig$();
 /*#__PURE__*/ import React, { useState } from "../-/esm.sh/react@17.0.2.js";
 import mdParse from "../lib/mdParse.js#/lib/mdParse.ts@45787f";
-export default function Logo({ size =75  }) {
+export default function Logo() {
     _s();
     const [mdText, setMT] = useState("# init value");
     return React.createElement("div", {

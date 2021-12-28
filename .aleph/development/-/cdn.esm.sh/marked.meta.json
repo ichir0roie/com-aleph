@@ -1,0 +1,9 @@
+{
+  "specifier": "https://cdn.esm.sh/marked",
+  "deps": [
+    {
+      "specifier": "https://cdn.esm.sh/v58/marked@4.0.8/deno/marked.js"
+    }
+  ],
+  "sourceHash": "3a3cc58dc2e42b9013f1e3bd7481664e10dc8a15"
+}
