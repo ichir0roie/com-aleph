@@ -1,0 +1,9 @@
+{
+  "specifier": "https://esm.sh/rehype-react",
+  "deps": [
+    {
+      "specifier": "https://cdn.esm.sh/v59/rehype-react@7.0.3/deno/rehype-react.development.js"
+    }
+  ],
+  "sourceHash": "e84050e19c672682db03db8264dc7e6371cd9eed"
+}

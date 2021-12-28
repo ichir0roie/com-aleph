@@ -1,0 +1,9 @@
+{
+  "specifier": "https://cdn.esm.sh/v59/vfile-message@3.1.0/deno/vfile-message.development.js",
+  "deps": [
+    {
+      "specifier": "https://cdn.esm.sh/v59/unist-util-stringify-position@3.0.0/deno/unist-util-stringify-position.development.js"
+    }
+  ],
+  "sourceHash": "0eb9c234e2a89f225ed0b785e2708d1db0289d0d"
+}

@@ -1,0 +1,9 @@
+{
+  "specifier": "https://esm.sh/remark-parse",
+  "deps": [
+    {
+      "specifier": "https://cdn.esm.sh/v59/remark-parse@10.0.1/deno/remark-parse.development.js"
+    }
+  ],
+  "sourceHash": "72eaa74fd238e468548b871dc4c5dfac4a27355d"
+}

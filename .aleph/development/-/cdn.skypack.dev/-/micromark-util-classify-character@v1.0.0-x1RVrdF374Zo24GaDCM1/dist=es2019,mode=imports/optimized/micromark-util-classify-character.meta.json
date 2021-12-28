@@ -1,0 +1,9 @@
+{
+  "specifier": "https://cdn.skypack.dev/-/micromark-util-classify-character@v1.0.0-x1RVrdF374Zo24GaDCM1/dist=es2019,mode=imports/optimized/micromark-util-classify-character.js",
+  "deps": [
+    {
+      "specifier": "https://cdn.skypack.dev/-/micromark-util-character@v1.0.0-881MvdWm1BbUG1iG5PXU/dist=es2019,mode=imports/optimized/micromark-util-character.js"
+    }
+  ],
+  "sourceHash": "adda15030044c6cd6db3943375bc9fde5c0805f0"
+}

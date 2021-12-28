@@ -1,0 +1,9 @@
+{
+  "specifier": "https://cdn.skypack.dev/-/unist-util-visit@v3.1.0-4Mb3wiOVmMbwt1F5hxpg/dist=es2019,mode=imports/optimized/unist-util-visit.js",
+  "deps": [
+    {
+      "specifier": "https://cdn.skypack.dev/-/unist-util-visit-parents@v4.1.1-xAXyePbjZ6eKtJVPo58L/dist=es2019,mode=imports/optimized/unist-util-visit-parents.js"
+    }
+  ],
+  "sourceHash": "71b6337ed2e478e1aae16d0cf87ae067338aa1cb"
+}

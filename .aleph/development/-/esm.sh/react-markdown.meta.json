@@ -1,0 +1,9 @@
+{
+  "specifier": "https://esm.sh/react-markdown",
+  "deps": [
+    {
+      "specifier": "https://cdn.esm.sh/v58/react-markdown@7.1.1/deno/react-markdown.development.js"
+    }
+  ],
+  "sourceHash": "016fe0b02bf24356c9aac0e19ebc601197c17a7e"
+}

@@ -1,0 +1,24 @@
+{
+  "specifier": "https://cdn.skypack.dev/-/mdast-util-to-hast@v11.3.0-rqb8PaH8NPjNJPin1Hm7/dist=es2019,mode=imports/optimized/mdast-util-to-hast.js",
+  "deps": [
+    {
+      "specifier": "https://cdn.skypack.dev/-/unist-builder@v3.0.0-geMo3CNBDmUDPX4bEG2l/dist=es2019,mode=imports/optimized/unist-builder.js"
+    },
+    {
+      "specifier": "https://cdn.skypack.dev/-/unist-util-visit@v4.1.0-jUdmZJeqyYX3XHcXPej2/dist=es2019,mode=imports/optimized/unist-util-visit.js"
+    },
+    {
+      "specifier": "https://cdn.skypack.dev/-/unist-util-position@v4.0.1-7jrHYwTfEK1OnLa0qCNb/dist=es2019,mode=imports/optimized/unist-util-position.js"
+    },
+    {
+      "specifier": "https://cdn.skypack.dev/-/unist-util-generated@v2.0.0-qgbqvz5daenXJYT4Rs1a/dist=es2019,mode=imports/optimized/unist-util-generated.js"
+    },
+    {
+      "specifier": "https://cdn.skypack.dev/-/mdast-util-definitions@v5.1.0-p4dZ0TFngx70abzWKx58/dist=es2019,mode=imports/optimized/mdast-util-definitions.js"
+    },
+    {
+      "specifier": "https://cdn.skypack.dev/-/mdurl@v1.0.1-6zg8ICocHByHr7WG8ONr/dist=es2019,mode=imports/unoptimized/encode.js"
+    }
+  ],
+  "sourceHash": "6d41dd429b8197beef13a3e390f4dff2983b7c7d"
+}

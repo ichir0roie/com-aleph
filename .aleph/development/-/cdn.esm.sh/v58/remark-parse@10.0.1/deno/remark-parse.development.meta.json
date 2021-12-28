@@ -1,0 +1,9 @@
+{
+  "specifier": "https://cdn.esm.sh/v58/remark-parse@10.0.1/deno/remark-parse.development.js",
+  "deps": [
+    {
+      "specifier": "https://cdn.esm.sh/v58/mdast-util-from-markdown@1.2.0/deno/mdast-util-from-markdown.development.js"
+    }
+  ],
+  "sourceHash": "4c769bcd307205b7737eef49c013a7acde0443b2"
+}

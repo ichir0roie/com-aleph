@@ -1,0 +1,9 @@
+{
+  "specifier": "https://cdn.skypack.dev/-/mdast-util-definitions@v5.1.0-p4dZ0TFngx70abzWKx58/dist=es2019,mode=imports/optimized/mdast-util-definitions.js",
+  "deps": [
+    {
+      "specifier": "https://cdn.skypack.dev/-/unist-util-visit@v3.1.0-4Mb3wiOVmMbwt1F5hxpg/dist=es2019,mode=imports/optimized/unist-util-visit.js"
+    }
+  ],
+  "sourceHash": "90ec087dfccfbd182451caed0577f2395a5ac790"
+}

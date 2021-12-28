@@ -1,0 +1,9 @@
+{
+  "specifier": "https://cdn.skypack.dev/react-markdown@7?dts",
+  "deps": [
+    {
+      "specifier": "https://cdn.skypack.dev/-/react-markdown@v7.1.1-7krqXy9kanD0uDRDcMQ2/dist=es2019,mode=imports/optimized/react-markdown.js"
+    }
+  ],
+  "sourceHash": "2ac8969aede10c1e773f6c402828fe34d9e414b0"
+}

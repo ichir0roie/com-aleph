@@ -1,0 +1,33 @@
+{
+  "specifier": "https://cdn.esm.sh/v59/mdast-util-from-markdown@1.2.0/deno/mdast-util-from-markdown.development.js",
+  "deps": [
+    {
+      "specifier": "https://cdn.esm.sh/v59/mdast-util-to-string@3.1.0/deno/mdast-util-to-string.development.js"
+    },
+    {
+      "specifier": "https://cdn.esm.sh/v59/micromark@3.0.10/deno/lib/parse.development.js"
+    },
+    {
+      "specifier": "https://cdn.esm.sh/v59/micromark@3.0.10/deno/lib/preprocess.development.js"
+    },
+    {
+      "specifier": "https://cdn.esm.sh/v59/micromark@3.0.10/deno/lib/postprocess.development.js"
+    },
+    {
+      "specifier": "https://cdn.esm.sh/v59/micromark-util-decode-numeric-character-reference@1.0.0/deno/micromark-util-decode-numeric-character-reference.development.js"
+    },
+    {
+      "specifier": "https://cdn.esm.sh/v59/micromark-util-decode-string@1.0.2/deno/micromark-util-decode-string.development.js"
+    },
+    {
+      "specifier": "https://cdn.esm.sh/v59/micromark-util-normalize-identifier@1.0.0/deno/micromark-util-normalize-identifier.development.js"
+    },
+    {
+      "specifier": "https://cdn.esm.sh/v59/decode-named-character-reference@1.0.1/deno/decode-named-character-reference.development.js"
+    },
+    {
+      "specifier": "https://cdn.esm.sh/v59/unist-util-stringify-position@3.0.0/deno/unist-util-stringify-position.development.js"
+    }
+  ],
+  "sourceHash": "2f2bea9bd95d62362931a4154416a39be2581cb9"
+}

@@ -1,0 +1,9 @@
+{
+  "specifier": "https://cdn.skypack.dev/-/micromark-factory-destination@v1.0.0-uZW3qSeg6skcVX0XTzW4/dist=es2019,mode=imports/optimized/micromark-factory-destination.js",
+  "deps": [
+    {
+      "specifier": "https://cdn.skypack.dev/-/micromark-util-character@v1.0.0-881MvdWm1BbUG1iG5PXU/dist=es2019,mode=imports/optimized/micromark-util-character.js"
+    }
+  ],
+  "sourceHash": "187a0ece39bde0c6f2ba48bb3acc0aece3f09c17"
+}

@@ -1,0 +1,12 @@
+{
+  "specifier": "https://cdn.esm.sh/v58/vfile@5.2.0/deno/vfile.development.js",
+  "deps": [
+    {
+      "specifier": "https://cdn.esm.sh/v58/is-buffer@2.0.5/deno/is-buffer.development.js"
+    },
+    {
+      "specifier": "https://cdn.esm.sh/v58/vfile-message@3.0.2/deno/vfile-message.development.js"
+    }
+  ],
+  "sourceHash": "68f167072762e467230bf5a78a2511764213a2bf"
+}

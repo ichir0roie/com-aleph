@@ -1,0 +1,9 @@
+{
+  "specifier": "https://cdn.esm.sh/v59/@mapbox/hast-util-table-cell-style@0.2.0/deno/hast-util-table-cell-style.development.js",
+  "deps": [
+    {
+      "specifier": "https://cdn.esm.sh/v59/unist-util-visit@1.4.1/deno/unist-util-visit.development.js"
+    }
+  ],
+  "sourceHash": "59171094c4d8cf4029f0feff141d0a7fcccfce0f"
+}

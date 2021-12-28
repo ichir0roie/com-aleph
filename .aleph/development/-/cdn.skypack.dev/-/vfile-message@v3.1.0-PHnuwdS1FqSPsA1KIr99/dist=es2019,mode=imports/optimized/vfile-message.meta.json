@@ -1,0 +1,9 @@
+{
+  "specifier": "https://cdn.skypack.dev/-/vfile-message@v3.1.0-PHnuwdS1FqSPsA1KIr99/dist=es2019,mode=imports/optimized/vfile-message.js",
+  "deps": [
+    {
+      "specifier": "https://cdn.skypack.dev/-/unist-util-stringify-position@v3.0.0-PzqJYHLguP8t14EUW2kE/dist=es2019,mode=imports/optimized/unist-util-stringify-position.js"
+    }
+  ],
+  "sourceHash": "1fc6d0d4a95192309de0c30569768fb031dd6f8e"
+}

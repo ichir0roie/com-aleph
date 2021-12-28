@@ -1,0 +1,12 @@
+{
+  "specifier": "https://cdn.esm.sh/v58/prop-types@15.7.2/deno/prop-types.development.js",
+  "deps": [
+    {
+      "specifier": "https://cdn.esm.sh/v58/object-assign@4.1.1/deno/object-assign.development.js"
+    },
+    {
+      "specifier": "https://cdn.esm.sh/v58/react-is@16.13.1/deno/react-is.development.js"
+    }
+  ],
+  "sourceHash": "08f22bd8d2989044175c1f2280c7148957422292"
+}

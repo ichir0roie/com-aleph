@@ -1,0 +1,12 @@
+{
+  "specifier": "https://cdn.skypack.dev/-/micromark-factory-whitespace@v1.0.0-6VEs2b9uBd08ZEi6fgSU/dist=es2019,mode=imports/optimized/micromark-factory-whitespace.js",
+  "deps": [
+    {
+      "specifier": "https://cdn.skypack.dev/-/micromark-factory-space@v1.0.0-JX4eXJPzDafORQ4SOHDQ/dist=es2019,mode=imports/optimized/micromark-factory-space.js"
+    },
+    {
+      "specifier": "https://cdn.skypack.dev/-/micromark-util-character@v1.0.0-881MvdWm1BbUG1iG5PXU/dist=es2019,mode=imports/optimized/micromark-util-character.js"
+    }
+  ],
+  "sourceHash": "14c8880ebcfd0660bc26ab20b2978c0ee4307f98"
+}

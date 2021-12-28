@@ -1,0 +1,15 @@
+{
+  "specifier": "https://cdn.esm.sh/v59/rehype-react@7.0.3/deno/rehype-react.development.js",
+  "deps": [
+    {
+      "specifier": "https://cdn.esm.sh/v59/hast-to-hyperscript@10.0.1/deno/hast-to-hyperscript.development.js"
+    },
+    {
+      "specifier": "https://cdn.esm.sh/v59/@mapbox/hast-util-table-cell-style@0.2.0/deno/hast-util-table-cell-style.development.js"
+    },
+    {
+      "specifier": "https://cdn.esm.sh/v59/hast-util-whitespace@2.0.0/deno/hast-util-whitespace.development.js"
+    }
+  ],
+  "sourceHash": "e86e6d4f319a0a20c65961d894fa18765571a5f1"
+}

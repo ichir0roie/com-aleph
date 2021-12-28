@@ -1,0 +1,9 @@
+{
+  "specifier": "https://cdn.skypack.dev/-/style-to-object@v0.3.0-4QynMWyK2W16Tcnoj3I0/dist=es2019,mode=imports/optimized/style-to-object.js",
+  "deps": [
+    {
+      "specifier": "https://cdn.skypack.dev/-/inline-style-parser@v0.1.1-ebx1eprP1lejm73WrdOA/dist=es2019,mode=imports/optimized/inline-style-parser.js"
+    }
+  ],
+  "sourceHash": "ffb1e1663be9c300e129b583f7e729390b607d25"
+}

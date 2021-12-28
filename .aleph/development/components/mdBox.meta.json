@@ -1,0 +1,9 @@
+{
+  "specifier": "/components/mdBox.tsx",
+  "deps": [
+    {
+      "specifier": "https://esm.sh/react@17.0.2"
+    }
+  ],
+  "sourceHash": "6ab93361b1db5f3f2ccb9cd1c1c193493ef5c1b5"
+}

@@ -1,0 +1,33 @@
+{
+  "specifier": "https://cdn.skypack.dev/-/mdast-util-from-markdown@v1.2.0-bFTitMqWRVr2GXauG3H0/dist=es2019,mode=imports/optimized/mdast-util-from-markdown.js",
+  "deps": [
+    {
+      "specifier": "https://cdn.skypack.dev/-/mdast-util-to-string@v3.1.0-J1ZoFY0wN8olX8j3t1ZG/dist=es2019,mode=imports/optimized/mdast-util-to-string.js"
+    },
+    {
+      "specifier": "https://cdn.skypack.dev/-/micromark@v3.0.10-3uwqWKrEvYmy5VizG8Rm/dist=es2019,mode=imports/optimized/micromark/lib/parse.js"
+    },
+    {
+      "specifier": "https://cdn.skypack.dev/-/micromark@v3.0.10-3uwqWKrEvYmy5VizG8Rm/dist=es2019,mode=imports/optimized/micromark/lib/preprocess.js"
+    },
+    {
+      "specifier": "https://cdn.skypack.dev/-/micromark@v3.0.10-3uwqWKrEvYmy5VizG8Rm/dist=es2019,mode=imports/optimized/micromark/lib/postprocess.js"
+    },
+    {
+      "specifier": "https://cdn.skypack.dev/-/micromark-util-decode-numeric-character-reference@v1.0.0-QU6VzDVPsbTUeAVT6neg/dist=es2019,mode=imports/optimized/micromark-util-decode-numeric-character-reference.js"
+    },
+    {
+      "specifier": "https://cdn.skypack.dev/-/micromark-util-decode-string@v1.0.2-fhD6li2cgkExZmHl0hA1/dist=es2019,mode=imports/optimized/micromark-util-decode-string.js"
+    },
+    {
+      "specifier": "https://cdn.skypack.dev/-/micromark-util-normalize-identifier@v1.0.0-ZRakfdSAIdaNYLOBWpVY/dist=es2019,mode=imports/optimized/micromark-util-normalize-identifier.js"
+    },
+    {
+      "specifier": "https://cdn.skypack.dev/-/decode-named-character-reference@v1.0.1-5l5bdCKczrLCN3flp8SC/dist=es2019,mode=imports/optimized/decode-named-character-reference.js"
+    },
+    {
+      "specifier": "https://cdn.skypack.dev/-/unist-util-stringify-position@v3.0.0-PzqJYHLguP8t14EUW2kE/dist=es2019,mode=imports/optimized/unist-util-stringify-position.js"
+    }
+  ],
+  "sourceHash": "93b307db4ca41da96bb869f55a8d7a261f12fa54"
+}
