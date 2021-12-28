@@ -1,9 +1,0 @@
-{
-  "specifier": "https://cdn.esm.sh/v59/style-to-object@0.3.0/deno/style-to-object.development.js",
-  "deps": [
-    {
-      "specifier": "https://cdn.esm.sh/v59/inline-style-parser@0.1.1/deno/inline-style-parser.development.js"
-    }
-  ],
-  "sourceHash": "03b4fb5d389f54d0672d3051b8fd03ef18ea7ff8"
-}

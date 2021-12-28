@@ -1,9 +1,0 @@
-{
-  "specifier": "https://cdn.esm.sh/v58/unist-util-visit@4.1.0/deno/unist-util-visit.development.js",
-  "deps": [
-    {
-      "specifier": "https://cdn.esm.sh/v58/unist-util-visit-parents@5.1.0/deno/unist-util-visit-parents.development.js"
-    }
-  ],
-  "sourceHash": "27f354e3288fcca2f59207e95af7ee1157c644e0"
-}

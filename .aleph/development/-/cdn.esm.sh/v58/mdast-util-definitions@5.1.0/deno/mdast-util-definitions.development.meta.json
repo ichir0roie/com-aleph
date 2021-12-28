@@ -1,9 +1,0 @@
-{
-  "specifier": "https://cdn.esm.sh/v58/mdast-util-definitions@5.1.0/deno/mdast-util-definitions.development.js",
-  "deps": [
-    {
-      "specifier": "https://cdn.esm.sh/v58/unist-util-visit@3.1.0/deno/unist-util-visit.development.js"
-    }
-  ],
-  "sourceHash": "98b550cab4c6ee4e381f281a2e9165041b350622"
-}

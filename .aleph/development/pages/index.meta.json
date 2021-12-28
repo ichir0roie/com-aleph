@@ -7,15 +7,9 @@
     {
       "specifier": "/components/mdBox.tsx",
       "hashLoc": 113
-    },
-    {
-      "specifier": "https://cdn.esm.sh/marked"
-    },
-    {
-      "specifier": "https://cdn.esm.sh/html-to-react"
     }
   ],
-  "sourceHash": "310cb2c6126e831df904220638d159a0589d2105",
+  "sourceHash": "aa72c25d17004e7bbe8054a291ad312353d931d4",
   "jsxStaticClassNames": [
     "page"
   ]

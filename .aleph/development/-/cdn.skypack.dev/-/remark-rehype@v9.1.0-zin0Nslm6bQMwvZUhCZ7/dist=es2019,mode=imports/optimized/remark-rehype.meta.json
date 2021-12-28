@@ -1,9 +1,0 @@
-{
-  "specifier": "https://cdn.skypack.dev/-/remark-rehype@v9.1.0-zin0Nslm6bQMwvZUhCZ7/dist=es2019,mode=imports/optimized/remark-rehype.js",
-  "deps": [
-    {
-      "specifier": "https://cdn.skypack.dev/-/mdast-util-to-hast@v11.3.0-rqb8PaH8NPjNJPin1Hm7/dist=es2019,mode=imports/optimized/mdast-util-to-hast.js"
-    }
-  ],
-  "sourceHash": "4ae21ccbcef2be04344495aab7cd547e59552ba4"
-}

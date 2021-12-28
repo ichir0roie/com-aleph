@@ -1,9 +1,0 @@
-{
-  "specifier": "https://cdn.esm.sh/html-to-react",
-  "deps": [
-    {
-      "specifier": "https://cdn.esm.sh/v59/html-to-react@1.4.7/deno/html-to-react.js"
-    }
-  ],
-  "sourceHash": "65b7a2f3ac2c3875e972b39307d67f52fb5619dc"
-}

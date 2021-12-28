@@ -1,9 +1,0 @@
-{
-  "specifier": "https://esm.sh/remark-rehype",
-  "deps": [
-    {
-      "specifier": "https://cdn.esm.sh/v59/remark-rehype@10.1.0/deno/remark-rehype.development.js"
-    }
-  ],
-  "sourceHash": "419a7f5ceb7726326c56b0d496fd0b953659f674"
-}

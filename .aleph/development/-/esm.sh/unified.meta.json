@@ -1,9 +1,0 @@
-{
-  "specifier": "https://esm.sh/unified",
-  "deps": [
-    {
-      "specifier": "https://cdn.esm.sh/v59/unified@10.1.1/deno/unified.development.js"
-    }
-  ],
-  "sourceHash": "43e5ec4b425619fc0cd9f8c84fb760f7e52ee243"
-}

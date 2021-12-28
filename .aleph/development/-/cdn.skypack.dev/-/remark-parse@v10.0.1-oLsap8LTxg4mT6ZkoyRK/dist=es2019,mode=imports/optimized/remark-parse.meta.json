@@ -1,9 +1,0 @@
-{
-  "specifier": "https://cdn.skypack.dev/-/remark-parse@v10.0.1-oLsap8LTxg4mT6ZkoyRK/dist=es2019,mode=imports/optimized/remark-parse.js",
-  "deps": [
-    {
-      "specifier": "https://cdn.skypack.dev/-/mdast-util-from-markdown@v1.2.0-bFTitMqWRVr2GXauG3H0/dist=es2019,mode=imports/optimized/mdast-util-from-markdown.js"
-    }
-  ],
-  "sourceHash": "e87b3dd95d5a6586e23624c945f980bb56a5ecc5"
-}

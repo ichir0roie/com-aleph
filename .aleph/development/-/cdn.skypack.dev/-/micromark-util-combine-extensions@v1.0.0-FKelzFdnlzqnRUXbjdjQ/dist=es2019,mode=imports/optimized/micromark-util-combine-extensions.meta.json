@@ -1,9 +1,0 @@
-{
-  "specifier": "https://cdn.skypack.dev/-/micromark-util-combine-extensions@v1.0.0-FKelzFdnlzqnRUXbjdjQ/dist=es2019,mode=imports/optimized/micromark-util-combine-extensions.js",
-  "deps": [
-    {
-      "specifier": "https://cdn.skypack.dev/-/micromark-util-chunked@v1.0.0-5rVltJlLBLqkevusKokO/dist=es2019,mode=imports/optimized/micromark-util-chunked.js"
-    }
-  ],
-  "sourceHash": "e8e714cca3393d01cc449f6d622fcb60a1d3f09e"
-}

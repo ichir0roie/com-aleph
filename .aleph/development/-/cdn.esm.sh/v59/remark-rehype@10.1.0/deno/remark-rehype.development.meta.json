@@ -1,9 +1,0 @@
-{
-  "specifier": "https://cdn.esm.sh/v59/remark-rehype@10.1.0/deno/remark-rehype.development.js",
-  "deps": [
-    {
-      "specifier": "https://cdn.esm.sh/v59/mdast-util-to-hast@12.1.0/deno/mdast-util-to-hast.development.js"
-    }
-  ],
-  "sourceHash": "b15681bf1151effdf1a492c0f5a28f0f910c98d8"
-}
